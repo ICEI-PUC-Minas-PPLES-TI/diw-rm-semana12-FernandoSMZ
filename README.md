@@ -4,10 +4,10 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Fernando Silva Menezes
+- Matricula:889468
+- Proposta de projeto escolhida:Catalago de filmes
+- Breve descrição sobre seu projeto:ste projeto é um catálogo de filmes que permite ao usuário visualizar uma lista de filmes na página inicial e acessar uma página de detalhes com informações completas de cada título. Os dados são consumidos de uma API RESTful simulada utilizando JSON Server. A arquitetura segue a separação entre frontend e backend, com uma estrutura de projeto organizada em ambiente Node.js.
 
 **Print do teste da API com visualização do JSON**
 
